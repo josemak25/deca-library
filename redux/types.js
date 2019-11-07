@@ -1,0 +1,4 @@
+// THEME TYPES
+
+export const DEFAULT_THEME = 'DEFAULT_THEME';
+export const CHANGE_THEME = 'CHANGE_THEME';

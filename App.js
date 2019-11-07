@@ -1,19 +1,23 @@
-import React from 'react';
-import { StyleSheet, Text, View } from 'react-native';
+import React, { useState, useEffect } from 'react';
+import AppRouter from './router';
+import * as Font from 'expo-font';
 
 export default function App() {
-  return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-    </View>
-  );
-}
+  const [isFontReady, setFontReady] = useState(false);
+  useEffect(() => {
+    const loadFont = async () => {
+      await Font.loadAsync({
+        'panton-bold': require('./assets/fonts/Panton-Bold.otf'),
+        'panton-bold-regular': require('./assets/fonts/Panton-Bold-Regular.ttf'),
+        'panton-regular': require('./assets/fonts/Panton-Regular.ttf'),
+        'panton-light': require('./assets/fonts/Panton-Light.ttf'),
+        'panton-thin': require('./assets/fonts/Panton-Thin.ttf')
+      });
+      setFontReady(true);
+    };
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+    loadFont();
+  }, [isFontReady]);
+
+  return isFontReady ? <AppRouter /> : null;
+}
