@@ -22,7 +22,7 @@ export default renderButton = (type, theme) => {
         <Icon
           name={type}
           style={{
-            color: "#fff",
+            color: theme.COLOR_VARIANT_FIVE,
             fontFamily: theme.FONT_FAMILY_BOLD,
             fontSize: 40,
             height: 40,
