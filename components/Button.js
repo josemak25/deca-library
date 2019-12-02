@@ -3,11 +3,7 @@ import styled from 'styled-components';
 import boxShadow from '../utils/boxShadows';
 
 export default function Button(props) {
-  return (
-    <Container style={[boxShadow({ elevation: 2, color: '#3f51b5' }), props.style]}>
-      {props.children}
-    </Container>
-  );
+  return <Container style={[boxShadow({ elevation: 2 }), props.style]}>{props.children}</Container>;
 }
 
 const Container = styled.TouchableOpacity`

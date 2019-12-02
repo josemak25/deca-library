@@ -1,17 +1,31 @@
-import React from 'react';
-import { Provider } from 'react-redux';
-import { PersistGate } from 'redux-persist/integration/react';
-import configureStore from './redux/store';
-import ScreenOne from './views/splashScreen/screenOne';
+import React from "react";
+import { createStackNavigator } from "react-navigation-stack";
+import { createAppContainer } from "react-navigation";
+import Screens from "./screens";
 
-const { store, persistor } = configureStore();
+const AppNavigator = createStackNavigator(
+  {
+    // Home Route
+    HomeScreen: { screen: Screens.HomeScreen },
 
-export default function AppRouter() {
-  return (
-    <Provider store={store}>
-      <PersistGate loading={null} persistor={persistor}>
-        <ScreenOne />
-      </PersistGate>
-    </Provider>
-  );
-}
+    // Splash screen route Route
+    SplashScreen: {
+      screen: Screens.SplashScreen,
+      header: null
+    }
+  },
+
+  {
+    initialRouteName: "SplashScreen",
+    defaultNavigationOptions: {
+      headerStyle: {
+        borderBottomWidth: 0,
+        elevation: 0,
+        shadowOpacity: 0
+      },
+      headerTintColor: "#ffffff"
+    }
+  }
+);
+
+export default AppRoutes = createAppContainer(AppNavigator);
