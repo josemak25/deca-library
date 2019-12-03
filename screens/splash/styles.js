@@ -37,9 +37,9 @@ export const SplashContentFooter = styled.Text`
   font-size: 13.5px;
   font-family: ${props => props.font};
   line-height: 16px;
-  text-align: center;
   margin-top: 10px;
-  height: 100%;
+  height: 120%;
+  text-align: center;
 `;
 
 export const Pagination = styled.View`
@@ -57,4 +57,14 @@ export const ActiveSliderPage = styled.View`
   background-color: ${props => props.color};
   align-self: center;
   border-radius: 100px;
+`;
+
+export const DoneButtonText = styled.Text`
+  color: ${props => props.color};
+  font-size: 14px;
+  font-family: ${props => props.font};
+  line-height: 16px;
+  height: 100%;
+  padding: 12px;
+  text-align: center;
 `;

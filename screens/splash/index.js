@@ -1,25 +1,36 @@
-import React from "react";
+import React, { useState } from "react";
 import AppIntroSlider from "react-native-app-intro-slider";
 import customData from "../../meta";
 import Screen from "./Screen";
 import boxShadow from "../../utils/boxShadows";
 import appTheme from "../../constants";
-import renderButton from "./pagination";
+import { NextButton, DoneButton } from "./pagination";
 
-export default function SplashScreen() {
+export default function SplashScreen({ navigation }) {
+  const [appSlider, setAppSlider] = useState({});
+  const [currentScreen, setCurrentScreen] = useState(null);
+
+  const handleChange = () => {
+    appSlider.goToSlide(currentScreen + 1);
+    setCurrentScreen(currentScreen + 1);
+  };
+
+  const { navigate } = navigation;
+
   const [theme] = appTheme;
 
   const { splashScreens } = customData;
-
-  const onDone = () => setShowApp(false);
 
   return (
     <AppIntroSlider
       renderItem={Screen}
       slides={splashScreens}
-      onDone={onDone}
       dotStyle={{
-        backgroundColor: theme.SVG_COLOR
+        backgroundColor: theme.SVG_COLOR,
+        width: 10,
+        height: 10,
+        marginLeft: 10,
+        marginRight: 10
       }}
       activeDotStyle={{
         backgroundColor: theme.PRIMARY_COLOR,
@@ -31,12 +42,12 @@ export default function SplashScreen() {
       }}
       paginationStyle={{
         position: "absolute",
-        bottom: 225
+        bottom: 200
       }}
-      showNextButton={true}
-      renderNextButton={renderButton("chevron-right", theme)}
-      renderDoneButton={renderButton("check", theme)}
-      // hidePagination={true}
+      renderNextButton={NextButton({ theme, handleChange })}
+      renderDoneButton={DoneButton({ theme, navigate })}
+      onSlideChange={index => setCurrentScreen(index)}
+      ref={ref => setAppSlider(ref)}
     />
   );
 }
