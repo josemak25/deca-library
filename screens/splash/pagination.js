@@ -1,10 +1,11 @@
 import React from "react";
 import { Dimensions } from "react-native";
-import Button from "../../components/Button";
-import Icon from "../../components/Icon";
-import boxShadow from "../../utils/boxShadows";
+import components from "../../components";
+const { Icon, Button } = components;
 
+import boxShadow from "../../utils/boxShadows";
 import { DoneButtonText } from "./styles";
+import { fonts } from "../../constants";
 
 export const NextButton = ({ theme, handleChange }) => {
   return () => {
@@ -26,7 +27,7 @@ export const NextButton = ({ theme, handleChange }) => {
         <Icon
           name="chevron-right"
           style={{
-            color: theme.COLOR_VARIANT_FIVE,
+            color: theme.COLOR_WHITE,
             fontFamily: theme.FONT_FAMILY_BOLD,
             fontSize: 40,
             height: 40,
@@ -60,8 +61,8 @@ export const DoneButton = ({ theme, navigate }) => {
         onPress={() => navigate("HomeScreen")}
       >
         <DoneButtonText
-          color={theme.COLOR_VARIANT_FIVE}
-          font="panton-bold-regular"
+          color={theme.COLOR_WHITE}
+          font={fonts.FONT_FAMILY_REGULAR_BOLD}
         >
           START
         </DoneButtonText>

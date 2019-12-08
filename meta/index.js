@@ -1,7 +1,10 @@
 export const images = {
   screenOneImg: require("../assets/images/screenOne.png"),
   screenTwoImg: require("../assets/images/screenTwo.png"),
-  screenThreeImg: require("../assets/images/screenThree.png")
+  screenThreeImg: require("../assets/images/screenThree.png"),
+  defaultCoverImg: require("../assets/images/default.jpg"),
+  happy: require("../assets/images/happy.png"),
+  sad: require("../assets/images/sad.png")
 };
 
 export default METADATA = {

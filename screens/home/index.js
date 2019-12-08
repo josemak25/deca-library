@@ -1,6 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { connect } from "react-redux";
-import { Container, Welcome } from "./styles";
+import { Container, Header } from "./styles";
+import components from "../../components";
+
+const { Card, Loading, Book } = components;
 import getBooks from "../../redux/actions/booksActions";
 
 const Home = props => {
@@ -11,18 +14,30 @@ const Home = props => {
   });
 
   useEffect(() => {
-    props.dispatch(getBooks());
+    // props.dispatch(getBooks());
     const { books, isLoading, error } = props.books;
+
     setLibrary({ ...library, books, isLoading, error });
   }, []);
 
   return library.isLoading ? (
-    <Container>
-      <Welcome>Loading...</Welcome>
-    </Container>
+    <Loading />
   ) : (
     <Container>
-      <Welcome>Home</Welcome>
+      <Header>Discover</Header>
+
+      {/* scrolling carousel here */}
+
+      <Card>
+        <Book
+          {...{
+            title: "dry",
+            category: "drama",
+            author: "Neal Shusterman",
+            rating: "1004"
+          }}
+        />
+      </Card>
     </Container>
   );
 };
