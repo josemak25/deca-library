@@ -1,7 +1,9 @@
 import React, { useEffect, useState } from "react";
 import { connect } from "react-redux";
-import { Container, Welcome } from "./styles";
+import { Container, Header } from "./styles";
 import getBooks from "../../redux/actions/booksActions";
+import Card from "../../components/Card";
+import Loading from "../../components/Loading";
 
 const Home = props => {
   const [library, setLibrary] = useState({
@@ -11,18 +13,21 @@ const Home = props => {
   });
 
   useEffect(() => {
-    props.dispatch(getBooks());
+    // props.dispatch(getBooks());
     const { books, isLoading, error } = props.books;
+
     setLibrary({ ...library, books, isLoading, error });
   }, []);
 
   return library.isLoading ? (
-    <Container>
-      <Welcome>Loading...</Welcome>
-    </Container>
+    <Loading />
   ) : (
     <Container>
-      <Welcome>Home</Welcome>
+      <Header>Discover</Header>
+
+      {/* scrolling carousel here */}
+
+      <Card></Card>
     </Container>
   );
 };
