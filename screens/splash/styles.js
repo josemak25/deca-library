@@ -1,5 +1,7 @@
 import styled from "styled-components";
 
+import { fonts } from "../../constants";
+
 export const Container = styled.View`
   flex: 1;
   height: 100%;
@@ -28,8 +30,8 @@ export const SplashContent = styled.View`
 export const SplashContentHeader = styled.Text`
   text-align: center;
   color: ${props => props.color};
-  font-family: "panton-bold";
-  font-size: 15px;
+  font-family: ${fonts.FONT_FAMILY_BOLD};
+  font-size: ${fonts.FONT_SIZE_MEDIUM};
 `;
 
 export const SplashContentFooter = styled.Text`
@@ -61,7 +63,7 @@ export const ActiveSliderPage = styled.View`
 
 export const DoneButtonText = styled.Text`
   color: ${props => props.color};
-  font-size: 14px;
+  font-size: ${fonts.FONT_SIZE_MEDIUM};
   font-family: ${props => props.font};
   line-height: 16px;
   height: 100%;

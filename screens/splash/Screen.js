@@ -9,7 +9,7 @@ import {
   BackgroundImage
 } from "./styles";
 
-import appTheme from "../../constants";
+import appTheme, { fonts } from "../../constants";
 
 export default function Screen({ item }) {
   const [theme] = appTheme;
@@ -21,13 +21,13 @@ export default function Screen({ item }) {
         <SplashContent>
           <SplashContentHeader
             color={theme.PRIMARY_COLOR}
-            font={theme.FONT_FAMILY_REGULAR}
+            font={fonts.FONT_FAMILY_REGULAR}
           >
             {item.title}
           </SplashContentHeader>
           <SplashContentFooter
             color={theme.PRIMARY_COLOR}
-            font={theme.FONT_FAMILY_REGULAR}
+            font={fonts.FONT_FAMILY_REGULAR}
           >
             {item.text}
           </SplashContentFooter>
