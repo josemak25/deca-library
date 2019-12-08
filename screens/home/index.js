@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import { Container, Header } from "./styles";
 import components from "../../components";
 
-const { Card, Loading } = components;
+const { Card, Loading, Book } = components;
 import getBooks from "../../redux/actions/booksActions";
 
 const Home = props => {
@@ -28,7 +28,16 @@ const Home = props => {
 
       {/* scrolling carousel here */}
 
-      <Card></Card>
+      <Card>
+        <Book
+          {...{
+            title: "dry",
+            category: "drama",
+            author: "Neal Shusterman",
+            rating: "1004"
+          }}
+        />
+      </Card>
     </Container>
   );
 };
