@@ -6,9 +6,9 @@ import AppRouter from "./router";
 import * as Font from "expo-font";
 
 export default function App() {
-  const [isFontReady, setFontReady] = useState(false);
-
   const { store, persistor } = configureStore();
+
+  const [isFontReady, setFontReady] = useState(false);
 
   useEffect(() => {
     const loadFont = async () => {

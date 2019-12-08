@@ -1,9 +1,11 @@
-import { combineReducers } from 'redux';
+import { combineReducers } from "redux";
 
-import themeReducer from './reducers/themeReducer';
+import themeReducer from "./reducers/themeReducer";
+import booksReducer from "./reducers/booksReducer";
 
 const rootReducer = combineReducers({
-  theme: themeReducer
+  theme: themeReducer,
+  books: booksReducer
 });
 
 export default rootReducer;
