@@ -10,7 +10,8 @@ export const colors = {
   COLOR_VARIANT_FOUR: "rgb(0, 180, 212)",
   COLOR_WHITE: "#FFFFFF",
   COLOR_BACKGROUND: "#F7F7F7",
-  COLOR_CARD_SHADOW: "#DEE7EC"
+  COLOR_CARD_SHADOW: "#DEE7EC",
+  COLOR_BOOK_CATEGORY: "#F57557"
 };
 
 // All app font sizes
