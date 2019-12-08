@@ -3,7 +3,8 @@ import { createStackNavigator } from "react-navigation-stack";
 import { createAppContainer } from "react-navigation";
 import Screens from "./screens";
 import { customHeaderStyle } from "./constants";
-import Search from "./components/Search";
+import components from "./components";
+const { Search } = components;
 
 const AppNavigator = createStackNavigator(
   {

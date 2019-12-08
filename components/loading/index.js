@@ -1,8 +1,9 @@
 import React from "react";
-import styled from "styled-components";
 import { ActivityIndicator } from "react-native";
-import theme from "../constants";
+import theme from "../../constants";
 const [colors] = theme;
+
+import { Container } from "./styles";
 
 export default Loading = () => {
   return (
@@ -11,10 +12,3 @@ export default Loading = () => {
     </Container>
   );
 };
-
-const Container = styled.View`
-  flex: 1;
-  justify-content: center;
-  align-items: center;
-  padding: 10px;
-`;

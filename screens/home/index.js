@@ -1,9 +1,10 @@
 import React, { useEffect, useState } from "react";
 import { connect } from "react-redux";
 import { Container, Header } from "./styles";
+import components from "../../components";
+
+const { Card, Loading } = components;
 import getBooks from "../../redux/actions/booksActions";
-import Card from "../../components/Card";
-import Loading from "../../components/Loading";
 
 const Home = props => {
   const [library, setLibrary] = useState({

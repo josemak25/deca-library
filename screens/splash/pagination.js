@@ -1,9 +1,9 @@
 import React from "react";
 import { Dimensions } from "react-native";
-import Button from "../../components/Button";
-import Icon from "../../components/Icon";
-import boxShadow from "../../utils/boxShadows";
+import components from "../../components";
+const { Icon, Button } = components;
 
+import boxShadow from "../../utils/boxShadows";
 import { DoneButtonText } from "./styles";
 import { fonts } from "../../constants";
 
