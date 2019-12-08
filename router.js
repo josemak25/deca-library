@@ -1,11 +1,20 @@
+import React from "react";
 import { createStackNavigator } from "react-navigation-stack";
 import { createAppContainer } from "react-navigation";
 import Screens from "./screens";
+import { customHeaderStyle } from "./constants";
+import Search from "./components/Search";
 
 const AppNavigator = createStackNavigator(
   {
     // Home Route
-    HomeScreen: { screen: Screens.HomeScreen },
+    HomeScreen: {
+      screen: Screens.HomeScreen,
+      navigationOptions: {
+        header: <Search />,
+        headerStyle: customHeaderStyle
+      }
+    },
 
     // Splash screen route Route
     SplashScreen: {
@@ -15,14 +24,9 @@ const AppNavigator = createStackNavigator(
   },
 
   {
-    initialRouteName: "SplashScreen",
+    initialRouteName: "HomeScreen",
     defaultNavigationOptions: {
-      headerStyle: {
-        borderBottomWidth: 0,
-        elevation: 0,
-        shadowOpacity: 0
-      },
-      headerTintColor: "#ffffff"
+      headerStyle: customHeaderStyle
     }
   }
 );
