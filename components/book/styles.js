@@ -4,58 +4,66 @@ const [colors] = theme;
 
 export const Container = styled.View`
   flex: 1;
-  justify-content: center;
+  width: 100%;
+  flex-direction: row;
+  justify-content: space-between;
   align-items: center;
-  border: 1px solid;
+  padding: 20px;
+`;
+
+export const Cover = styled.Image`
+  width: 25%;
+  height: 100%;
+  border-radius: 2;
+`;
+
+export const Details = styled.View`
+  width: 65%;
+  height: 100%;
+  justify-content: space-between;
 `;
 
 export const Category = styled.Text`
-  font-size: ${fonts.FONT_SIZE_LARGE};
+  width: 30%;
+  font-size: ${fonts.FONT_SIZE_SMALL};
   font-family: ${fonts.FONT_FAMILY_REGULAR_BOLD};
-  color: ${colors.SECONDARY_COLOR};
-  padding: 0 10px;
-  width: 90%;
-  height: 100%;
+  color: ${colors.COLOR_BOOK_CATEGORY};
+  text-transform: capitalize;
+  text-align: center;
+  padding: 5px;
+  border-radius: 15;
+  border: 1.5px ${colors.COLOR_BOOK_CATEGORY} solid;
   letter-spacing: 1;
-  line-height: 18;
 `;
 
 export const Title = styled.Text`
-  font-size: ${fonts.FONT_SIZE_LARGE};
+  font-size: ${fonts.FONT_SIZE_MEDIUM + 3};
   font-family: ${fonts.FONT_FAMILY_REGULAR_BOLD};
   color: ${colors.SECONDARY_COLOR};
-  padding: 0 10px;
-  width: 90%;
-  height: 100%;
   letter-spacing: 1;
-  line-height: 18;
+  text-transform: capitalize;
 `;
 
 export const Author = styled.Text`
-  font-size: ${fonts.FONT_SIZE_LARGE};
+  font-size: ${fonts.FONT_SIZE_MEDIUM};
   font-family: ${fonts.FONT_FAMILY_REGULAR_BOLD};
   color: ${colors.SECONDARY_COLOR};
-  padding: 0 10px;
-  width: 90%;
-  height: 100%;
   letter-spacing: 1;
-  line-height: 18;
+  opacity: 0.8;
 `;
 
-export const Reaction = styled.View`
-  flex: 1;
-  justify-content: center;
+export const ReactionContainer = styled.View`
+  justify-content: flex-end;
+  flex-direction: row;
+  justify-content: flex-start;
   align-items: center;
-  border: 1px solid;
 `;
 
 export const Rating = styled.Text`
-  font-size: ${fonts.FONT_SIZE_LARGE};
+  font-size: ${fonts.FONT_SIZE_MEDIUM};
   font-family: ${fonts.FONT_FAMILY_REGULAR_BOLD};
   color: ${colors.SECONDARY_COLOR};
-  padding: 0 10px;
-  width: 90%;
-  height: 100%;
   letter-spacing: 1;
   line-height: 18;
+  margin-left: 10px;
 `;
