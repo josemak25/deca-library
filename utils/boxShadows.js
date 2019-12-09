@@ -1,18 +1,28 @@
-import { StyleSheet } from 'react-native';
+import { StyleSheet } from "react-native";
 
-function createBoxShadowStyle(elevation, color) {
+function createBoxShadowStyle({
+  elevation,
+  color,
+  opacity,
+  radius,
+  width,
+  height
+}) {
   return {
     elevation,
     shadowColor: color,
-    shadowOffset: { width: 0, height: 0.5 * elevation },
-    shadowOpacity: 0.3,
-    shadowRadius: Math.floor((0.8 * elevation) / 2)
+    shadowOffset: {
+      width: width || 0,
+      height: height || 0.5 * elevation
+    },
+    shadowOpacity: opacity || 0.3,
+    shadowRadius: radius || Math.floor((0.8 * elevation) / 2)
   };
 }
 
-export default function boxShadow({ elevation, color }) {
+export default function boxShadow(properties) {
   const { shadow } = StyleSheet.create({
-    shadow: createBoxShadowStyle(elevation, color)
+    shadow: createBoxShadowStyle(properties)
   });
   return shadow;
 }
