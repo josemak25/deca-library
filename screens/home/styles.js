@@ -2,12 +2,24 @@ import styled from "styled-components";
 import theme, { fonts } from "../../constants";
 const [colors] = theme;
 
-export const Container = styled.View`
+export const Container = styled.SafeAreaView`
+  flex: 1;
+  background-color: ${colors.COLOR_BACKGROUND};
+`;
+
+export const Background = styled.View`
   flex: 1;
   background-color: ${colors.COLOR_BACKGROUND};
   align-items: center;
-  padding: 0 15px;
+  padding: 0 20px;
   padding-top: 15px;
+`;
+
+export const CarouselContainer = styled.View`
+  width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-top: 100;
 `;
 
 export const Header = styled.Text`
