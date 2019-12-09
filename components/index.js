@@ -4,6 +4,7 @@ import Card from "./card";
 import Icon from "./icon";
 import Loading from "./loading";
 import Search from "./search";
+import CarouselItem from "./carouselItem";
 
 const allComponents = {
   Book,
@@ -11,7 +12,8 @@ const allComponents = {
   Card,
   Icon,
   Loading,
-  Search
+  Search,
+  CarouselItem
 };
 
 export default allComponents;
