@@ -7,7 +7,7 @@ export const Container = styled.View`
   min-height: 100;
   justify-content: center;
   align-items: center;
-  padding: 0 15px;
+  padding: 0 20px;
   background-color: ${colors.COLOR_BACKGROUND};
 `;
 
