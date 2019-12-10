@@ -13,17 +13,27 @@ import {
 } from "./styles";
 import { images } from "../../meta";
 
-export default Book = ({ category, title, author, rating }) => {
+export default Book = ({ book }) => {
+  const {
+    title,
+    categories,
+    authors,
+    rating,
+    imageLinks,
+    ratingsCount,
+    averageRating
+  } = book.volumeInfo;
+
   return (
     <Container>
-      <Cover source={images.defaultCoverImg} resizeMode="stretch" />
+      <Cover source={{ uri: imageLinks.thumbnail }} resizeMode="stretch" />
       <Details>
-        <Category>{category}</Category>
+        <Category>{categories[0]}</Category>
         <Title>{title}</Title>
-        <Author>{author}</Author>
+        <Author>{authors[0]}</Author>
         <ReactionContainer>
-          <Reaction rating={rating} />
-          <Rating>{rating} rating</Rating>
+          <Reaction averageRating={averageRating} />
+          <Rating>{ratingsCount || 0} rating</Rating>
         </ReactionContainer>
       </Details>
     </Container>

@@ -16,10 +16,11 @@ export const Background = styled.View`
 `;
 
 export const CarouselContainer = styled.View`
+  height: 400;
   width: 100%;
   align-items: center;
   justify-content: center;
-  margin-top: 100;
+  margin-top: 50;
 `;
 
 export const Header = styled.Text`
