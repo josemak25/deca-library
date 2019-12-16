@@ -1,0 +1,2845 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 493,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "z--6DwAAQBAJ",
+      "etag": "M0sR+DUZr8s",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z--6DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Friday Black",
+        "subtitle": "Storys - Der Überraschungsbestseller aus den USA",
+        "authors": [
+          "Nana Kwame Adjei-Brenyah"
+        ],
+        "publisher": "Verlagsgruppe Random House GmbH",
+        "publishedDate": "2020-04-21",
+        "description": "»Aufregend und ein Wunder« George Saunders Nana Kwame Adjei-Brenyah ist die junge, Aufsehen erregende Stimme unserer Zeit. In seinem Debüt, zwölf aufwühlend politischen Storys, erzählt der US-Amerikaner von einer Welt, in der Weiße Schwarze diskriminieren und Schwarze Latinos. In der Menschen genetisch optimiert werden und Schüler aus Frust über das Leben einen Amoklauf begehen. Er erzählt von Gewalt, Rassismus, ungezügeltem Konsum und zeigt uns, was es heißt, im heutigen Amerika jung und schwarz zu sein. Mit einer unkonventionellen Mischung aus hartem Realismus, dystopischer Fantasie und greller Komik findet Adjei-Brenyah eine überraschend neue Sprache für die brennenden Themen unserer Zeit.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783641257378"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3641257379"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z--6DwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z--6DwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=z--6DwAAQBAJ&dq=subject:fiction&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=z--6DwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Friday_Black.html?hl=&id=z--6DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z--6DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bbzADwAAQBAJ",
+      "etag": "aXHm5tLyaN0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bbzADwAAQBAJ",
+      "volumeInfo": {
+        "title": "Париж в настоящем времени",
+        "authors": [
+          "Марк Хелприн"
+        ],
+        "publisher": "Азбука-Аттикус",
+        "publishedDate": "2019-11-28",
+        "description": "Впервые на русском — новейшее произведение автора «Зимней сказки»: романа, ставшего современной классикой и недавно экранизированного (в главных ролях Колин Фаррелл, Джессика Браун-Финдли, Расселл Кроу, Уильям Хёрт, Уилл Смит; в российском прокате фильм получил название «Любовь сквозь время»). «Париж в настоящем времени» — это глубокий взгляд на жизнь и ее сложности через очищающую призму искусства и памяти. Итак, познакомьтесь с Жюлем Лакуром — виолончелистом, композитором, преподавателем Сорбонны, ветераном войны в Алжире; родители его погибли перед самым освобождением Франции от фашистской оккупации, и эту травму он пронес через всю жизнь. Он всегда «влюблялся сильно и молниеносно, в женщин, по праву достойных любви и ею не обделенных» и даже после смерти жены, с которой прожил всю жизнь, не утратил этой привычки. Однажды его старый друг, всемирно известный философ Франсуа Эренштамм, предложил Жюлю написать рекламный джингл для крупнейшей в мире страховой компании «Эйкорн», сулившей баснословный гонорар, и Жюль принял этот вызов — других способов найти деньги на лечение внука, страдающего от лейкемии, все равно не было… «“Париж в настоящем времени” — это в первую очередь лирическое высказывание о любви и утрате, воспаряющее до поистине джойсовских красот» (The New York Times).",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785389175877"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5389175875"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 480,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bbzADwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bbzADwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.com/books?id=bbzADwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bbzADwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5.html?hl=&id=bbzADwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5-sample-epub.acsm?id=bbzADwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/%D0%9F%D0%B0%D1%80%D0%B8%D0%B6_%D0%B2_%D0%BD%D0%B0%D1%81%D1%82%D0%BE%D1%8F%D1%89%D0%B5%D0%BC_%D0%B2%D1%80%D0%B5-sample-pdf.acsm?id=bbzADwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bbzADwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "bd20DwAAQBAJ",
+      "etag": "pJ2YUa0Oe8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/bd20DwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Deep",
+        "authors": [
+          "Rivers Solomon",
+          "Daveed Diggs",
+          "William Hutson",
+          "Jonathan Snipes"
+        ],
+        "publisher": "Gallery / Saga Press",
+        "publishedDate": "2019-11-05",
+        "description": "The water-breathing descendants of African slave women tossed overboard have built their own underwater society—and must reclaim the memories of their past to shape their future in this brilliantly imaginative novella inspired by the Hugo Award–nominated song “The Deep” from Daveed Diggs’s rap group clipping Yetu holds the memories for her people—water-dwelling descendants of pregnant African slave women thrown overboard by slave owners—who live idyllic lives in the deep. Their past, too traumatic to be remembered regularly, is forgotten by everyone, save one—the historian. This demanding role has been bestowed on Yetu. Yetu remembers for everyone, and the memories, painful and wonderful, traumatic and terrible and miraculous, are destroying her. And so, she flees to the surface, escaping the memories, the expectations, and the responsibilities—and discovers a world her people left behind long ago. Yetu will learn more than she ever expected to about her own past—and about the future of her people. If they are all to survive, they’ll need to reclaim the memories, reclaim their identity—and own who they really are. Inspired by a song produced by the rap group Clipping for the This American Life episode “We Are In The Future,” The Deep is vividly original and uniquely affecting.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781534439863"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1534439862"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 176,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 3,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=bd20DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=bd20DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=bd20DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=bd20DwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Deep.html?hl=&id=bd20DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=bd20DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RriuDwAAQBAJ",
+      "etag": "XzFiqqQ2qp4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RriuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Institute",
+        "subtitle": "A Novel",
+        "authors": [
+          "Stephen King"
+        ],
+        "publisher": "Scribner",
+        "publishedDate": "2019-09-10",
+        "description": "From #1 New York Times bestselling author Stephen King, the most riveting and unforgettable story of kids confronting evil since It—publishing just as the second part of It, the movie, lands in theaters. In the middle of the night, in a house on a quiet street in suburban Minneapolis, intruders silently murder Luke Ellis’s parents and load him into a black SUV. The operation takes less than two minutes. Luke will wake up at The Institute, in a room that looks just like his own, except there’s no window. And outside his door are other doors, behind which are other kids with special talents—telekinesis and telepathy—who got to this place the same way Luke did: Kalisha, Nick, George, Iris, and ten-year-old Avery Dixon. They are all in Front Half. Others, Luke learns, graduated to Back Half, “like the roach motel,” Kalisha says. “You check in, but you don’t check out.” In this most sinister of institutions, the director, Mrs. Sigsby, and her staff are ruthlessly dedicated to extracting from these children the force of their extranormal gifts. There are no scruples here. If you go along, you get tokens for the vending machines. If you don’t, punishment is brutal. As each new victim disappears to Back Half, Luke becomes more and more desperate to get out and get help. But no one has ever escaped from the Institute. As psychically terrifying as Firestarter, and with the spectacular kid power of It, The Institute is Stephen King’s gut-wrenchingly dramatic story of good vs. evil in a world where the good guys don’t always win.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781982110567"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1982110562"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 24,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RriuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RriuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RriuDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RriuDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Institute.html?hl=&id=RriuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RriuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "D6-uDwAAQBAJ",
+      "etag": "aMgwyp66OQk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/D6-uDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rescued",
+        "authors": [
+          "Bonnie Lacy"
+        ],
+        "publisher": "Bonnie Lacy",
+        "publishedDate": "2019-09-10",
+        "description": "A pool—sink-hole, really—in small town Nebraska. It’s either a blessing or a curse, depending on the heart of the person who explores it. Ex-con Clarence and germaphobe Noell, are both being drawn to the pool. Clarence finds a yellowed newspaper article about it, stuck in his old law textbook. Noell stumbles across journals, documenting pool drownings back in 1937, in her vintage camper. Both dive in—or rather, Clarence falls in. Neither bargain for what they find. Rescued is the second book in The Great Escapee Series. Buy Rescued to continue Clarence’s story!",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781943647040"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1943647046"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 255,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=D6-uDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=D6-uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=D6-uDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=5&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=D6-uDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rescued.html?hl=&id=D6-uDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=D6-uDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RMqnDwAAQBAJ",
+      "etag": "44qtCMlM2W4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RMqnDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Ebony",
+        "subtitle": "Vol 1 Bluebonnet series",
+        "authors": [
+          "Chloe Odette"
+        ],
+        "publisher": "Chloe Odette",
+        "publishedDate": "2019-08-07",
+        "description": "Adrian Claymore was just going through the motions of life after the loss of his Mother. He had immersed himself in work, not leaving much room for anything else. When he’s faced with a big decision that could impact the lives around him, he goes to the one place that he finds solace in a city that runs in his veins. Charlee Foster is an ultra-intelligent woman who is forging her own way. She’s alone in the city that she loves. When a tragedy takes the life of someone she loves, can she find a reason to go forward, opening her heart, allowing someone in? Orphans by circumstance, can two lost souls find each other before it’s too late?",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RMqnDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RMqnDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=RMqnDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RMqnDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=RMqnDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Ebony-sample-pdf.acsm?id=RMqnDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RMqnDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "8vylDwAAQBAJ",
+      "etag": "er0J4od0Xks",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/8vylDwAAQBAJ",
+      "volumeInfo": {
+        "title": "After Anna",
+        "authors": [
+          "Theda Black"
+        ],
+        "publisher": "TKB Books",
+        "publishedDate": "2019-07-30",
+        "description": "(formerly published as After Anna and sequel, Touch Like Breathing -- combined and revised) Will and Tyler are partners on the police force, best friends ... and maybe more. When Will's girlfriend dies, Tyler supports him in every way he can, even when Will's increasingly self-destructive behavior endangers them both on the job. And as Will withdraws further, a desperate Tyler can't keep his feelings hidden anymore. But Will doesn't turn his back on him. In fact, Will might have some feelings of his own he's kept hidden. The trouble is, Tyler's kept more than one secret. He knows something about Anna's death--something that could end their relationship for good. As the pressure mounts, denial, anger and pain drives one of them to do something he'll never forgive himself for. Luckily his best friend has enough forgiveness for both of them--at least until he disappears, leaving behind a grieving partner who'll do absolutely anything to save him. Warnings for explicit sexuality, murder, drug use, dubious consent/rape, violence, painful relationships and true love. (HFN)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781726606639"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1726606635"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 2,
+        "ratingsCount": 1,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=8vylDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=8vylDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=8vylDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=8vylDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/After_Anna.html?hl=&id=8vylDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/After_Anna-sample-epub.acsm?id=8vylDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/After_Anna-sample-pdf.acsm?id=8vylDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=8vylDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9j6uDwAAQBAJ",
+      "etag": "pwVKhL1rsng",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9j6uDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kisah Tanah Jawa",
+        "subtitle": "Jagat Lelembut [free chapter]",
+        "authors": [
+          "@kisahtanahjawa",
+          "Dapoer Tjerita",
+          "Mada Zidan",
+          "Bonaventura D. Genta"
+        ],
+        "publisher": "GagasMedia",
+        "publishedDate": "2019-07-01",
+        "description": "Jagat lelembut atau dunia para makhluk halus, sampai saat ini masih mendapatkan image mengerikan di mata banyak orang. Sosok-sosok di dalamnya selalu digambarkan seram seperti halnya yang sering kita lihat di layar televisi. Belum lagi bumbu-bumbu yang sengaja dibuat dengan tujuan menakut-nakuti. Namun demikian, kita justru makin penasaran dengan keberadaan dunia “mereka”. Seperti apa sosok dan cerita para lelembut yang sebenarnya? Buku ini merangkum perjalanan Tim Kisah Tanah Jawa yang telah menjelajah “Jagat Lelembut” hingga lapisan ke-11 (yang mungkin terdiri dari 17 lapisan). Tidak hanya lewat kata-kata, Kisah Tanah Jawa: Jagat Lelembut berusaha menyertakan gambar dari penampakan “mereka”. Banyak jenis lelembut dan kisah yang mungkin belum pernah kita dengar, siapkan keberanian untuk membaca kisah “mereka”! ========== Sebuah buku horor free chapter dari Kisah Tanah Jawa ; Jagat Lelembut persembahan penerbit Gagasmedia",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 31,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.0.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9j6uDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9j6uDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=9j6uDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=9j6uDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Kisah_Tanah_Jawa.html?hl=&id=9j6uDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Kisah_Tanah_Jawa-sample-pdf.acsm?id=9j6uDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9j6uDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "6dCMDwAAQBAJ",
+      "etag": "NdZ5pVkTQyU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/6dCMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Last",
+        "subtitle": "A Novel",
+        "authors": [
+          "Hanna Jameson"
+        ],
+        "publisher": "Atria Books",
+        "publishedDate": "2019-04-09",
+        "description": "For fans of high-concept thrillers such as Annihilation and The Girl with All the Gifts, this breathtaking dystopian psychological thriller follows an American academic stranded at a Swiss hotel as the world descends into nuclear war—along with twenty other survivors—who becomes obsessed with identifying a murderer in their midst after the body of a young girl is discovered in one of the hotel’s water tanks. Jon thought he had all the time in the world to respond to his wife’s text message: I miss you so much. I feel bad about how we left it. Love you. But as he’s waiting in the lobby of the L’Hotel Sixieme in Switzerland after an academic conference, still mulling over how to respond to his wife, he receives a string of horrifying push notifications. Washington, DC has been hit with a nuclear bomb, then New York, then London, and finally Berlin. That’s all he knows before news outlets and social media goes black—and before the clouds on the horizon turn orange. Now, two months later, there are twenty survivors holed up at the hotel, a place already tainted by its strange history of suicides and murders. Those who can’t bear to stay commit suicide or wander off into the woods. Jon and the others try to maintain some semblance of civilization. But when the water pressure disappears, and Jon and a crew of survivors investigate the hotel’s water tanks, they are shocked to discover the body of a young girl. As supplies dwindle and tensions rise, Jon becomes obsessed with investigating the death of the little girl as a way to cling to his own humanity. Yet the real question remains: can he afford to lose his mind in this hotel, or should he take his chances in the outside world?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781501198823"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1501198823"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.0.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=6dCMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=6dCMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=6dCMDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=9&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=6dCMDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Last.html?hl=&id=6dCMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=6dCMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1BCGDwAAQBAJ",
+      "etag": "9sjB3xPSSnY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1BCGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Once and Future",
+        "authors": [
+          "Amy Rose Capetta",
+          "Cori McCarthy"
+        ],
+        "publisher": "Oneworld Publications",
+        "publishedDate": "2019-03-26",
+        "description": "A modern take on the classic Arthurian legend Ari Helix has been an illegal immigrant in the galaxies for as long as she can remember. But when her spaceship crashes on Old Earth and she pulls a magic sword from an ancient willow, her destiny becomes set in stone. As the forty-second reincarnation of King Arthur she must save humanity from tearing itself apart, with only the help of an adolescent wizard named Merlin. This female king must battle for her right to be herself, take down totalitarian governments and unite the world. How hard could that be?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781786076557"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1786076551"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": [
+          "Juvenile Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1BCGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1BCGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1BCGDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1BCGDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Once_and_Future.html?hl=&id=1BCGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Once_and_Future-sample-epub.acsm?id=1BCGDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1BCGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dxqMDwAAQBAJ",
+      "etag": "uqVfdn4B1ic",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dxqMDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rogues",
+        "authors": [
+          "D. Croft"
+        ],
+        "publisher": "Page Publishing Inc",
+        "publishedDate": "2019-03-07",
+        "description": "A suspense story about two men whose memories of past years surface on listening to the noon newscast this day. Neither could ever have anticipated how their lives would collide.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781644623800"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1644623803"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dxqMDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dxqMDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=dxqMDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=dxqMDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rogues.html?hl=&id=dxqMDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Rogues-sample-epub.acsm?id=dxqMDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Rogues-sample-pdf.acsm?id=dxqMDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dxqMDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "JmSGDwAAQBAJ",
+      "etag": "ic4eOAir+u8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/JmSGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Wedding Agreement",
+        "authors": [
+          "Mia Chuz"
+        ],
+        "publisher": "Naniko Publisher",
+        "publishedDate": "2019-02-05",
+        "description": "NOVEL WEDDING AGREEMENT #1 Romance in Wattpad 27 Juli 2018 Sudah dibaca 6M lebih sejak awal Mei 2018 *** “Apa ini?” Tari menatap lembaran kertas di meja dengan dahi mengernyit. “Kesepakatan pernikahan selama kita menikah,” terang Bian datar. Alis Tari bertaut. “Aku masih belum mengerti.” “Kita menikah karena menuruti kemauan orangtua, bukan cinta. Kamu tidak berencana untuk menikah selamanya, bukan?” Tari tertegun. Tentu saja ia berencana menikah untuk selamanya. Baginya menikah itu ibadah, bukan perkara main-main. “Maksud kamu, kita menikah hanya sementara, lalu pisah?” Bian mengangguk. Tari hendak membuka mulut dan memprotes, tetapi diurungkannya. “Kamu punya kamar sendiri, aku juga. Lantai atas adalah area pribadiku, kuharap kamu tidak naik ke sana,” jelasnya. Tari diam mendengarkan. “Aku akan mengurus keperluanku, kamu mengurus keperluanmu. Anggap saja kita dua orang asing yang hidup di bawah satu atap. Kamu bisa baca dulu.” Bian menyodorkan kertas kepada istrinya. Tari mengambil dan membacanya. Ia menelusuri setiap poin, sampai matanya melebar ketika membaca yang tertulis di sana. “Ini maksudnya apa!” serunya tidak terima. “Kamu bermaksud mempermainkan pernikahan kita?!” “Kalau kamu tidak mau menerima, tidak masalah. Silakan layangkan gugatan cerai ke pengadilan agama.” Bian beranjak berdiri dan meninggalkan istrinya sendirian. Tari menatap kepergian suaminya tidak percaya. Bagaimana mungkin ia menikahi laki-laki seperti itu? *** TESTIMONI PEMBACA Riny Nur Asia Wedding Agreement merupakan kisah sarat makna akan kehidupan rumah tangga. Banyak sisi manusiawi yang ada di kehidupan nyata di sajikan dengan berbagai macam karakter tokoh sehingga terkesan cerita ini nyata. Pilihan kata yang sederhana mampu membawa pembacanya memahami secara baik dan mudah. Alur yang runut membuat cerbung ini enak dibaca. Romyati Attanawulah Novel cinta yang isinya segudang makna kehidupan. I like Wedding Agreement. Irma Fauziah JANGAN DI BACA KALAU GAK BISA NAHAN BAPER! Nu P Astuti Bikin dag dig dug. Jadi berasa muda lagi bacanya, dan ketika bacanya serasa naik roller coaster. Fatkhul Ribkhah Novel tentang kehidupan pernikahan yang dikemas apik dengan bahasa yang ringan dan mudah dipahami. Kisah yang terjadi sangat dekat dengan sekitar kita.",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 418,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=JmSGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=JmSGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=JmSGDwAAQBAJ&pg=PA1&dq=subject:fiction&hl=&cd=12&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=JmSGDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Wedding_Agreement.html?hl=&id=JmSGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Wedding_Agreement-sample-pdf.acsm?id=JmSGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=JmSGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0eqGDwAAQBAJ",
+      "etag": "3rMWFZq8UT8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0eqGDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Nonversation",
+        "authors": [
+          "Valerie Patkar"
+        ],
+        "publisher": "Bhuana Ilmu Populer",
+        "publishedDate": "2019-01-28",
+        "description": "Nonversation, sebuah novel yang menerjemahkan kata kehilangan dari perspektif seorang sahabat, pengagum, anak, dan orang tua. Bercerita tentang mereka yang sederhana namun berarti segalanya, tentang mereka yang punya kesempatan namun tak punya keberanian, dan tentang mereka yang dibutuhkan namun diam-diam juga membutuhkan. Nonversation adalah cerita sederhana. Sederhana yang menjadi segalanya. Tertanda, Audirga dan Theala.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786024832957"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6024832958"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 344,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0eqGDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0eqGDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=0eqGDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=0eqGDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Nonversation.html?hl=&id=0eqGDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Nonversation-sample-pdf.acsm?id=0eqGDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0eqGDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "s4B8DwAAQBAJ",
+      "etag": "LQthJt2yn5Q",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/s4B8DwAAQBAJ",
+      "volumeInfo": {
+        "title": "GAROTAS COMO NÓS",
+        "authors": [
+          "Dana Mele"
+        ],
+        "publisher": "Universo dos Livros Editora",
+        "publishedDate": "2019-01-21",
+        "description": "Um thriller psicológico tenso e sofisticado, que é simplesmente o livro certo para fãs de Pretty Little Liars, Meninas malvadas, Os 13 porquês e Elite – esta história o seduzirá, o iludirá e, por fim, o trairá. Kay Donovan é uma jogadora de futebol cujo grupo de lindas e populares amigas comanda uma escola particular, mas guarda segredos sombrios que se esforça para não respingarem no presente. No entanto, quando o corpo de uma garota é encontrado no lago da instituição, a vida cuidadosamente construída de Kay começa a desmoronar. Repleta de escândalos e tragédias, esta narrativa apresenta uma visão sombria e emocionante sobre amizades femininas, as pressões para alcançar sucesso acadêmico e também sobre saúde mental. Garotas como nós é uma história clássica, assustadora e com um final surpreendente.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788550303871"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8550303879"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 384,
+        "printType": "BOOK",
+        "categories": [
+          "Young Adult Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=s4B8DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=s4B8DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt",
+        "previewLink": "http://books.google.com/books?id=s4B8DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=s4B8DwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/GAROTAS_COMO_N%C3%93S.html?hl=&id=s4B8DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/GAROTAS_COMO_N%C3%93S-sample-epub.acsm?id=s4B8DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/GAROTAS_COMO_N%C3%93S-sample-pdf.acsm?id=s4B8DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=s4B8DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ewuEDwAAQBAJ",
+      "etag": "G+EY/UTvXw8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ewuEDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Segaris Rindu",
+        "authors": [
+          "Sarah Aulia"
+        ],
+        "publisher": "TransMedia",
+        "publishedDate": "2018-12-01",
+        "description": "Aku pernah jatuh cinta pada caramu mencintaiku. Aku pernah jatuh cinta pada caramu setia kepadaku. Aku pernah jatuh cinta pada caramu saat memerhatikanku. Aku pernah jatuh cinta pada caramu menjaga kekhawatiranku. Aku pernah jatuh cinta pada setiap kehebatanmu. Aku pernah begitu bangga karena memilikimu. Aku ingat semuanya, bahkan aku tidak berusaha untuk melupakannya. Meski kini, perlahan harus kurelakan semua kenangan itu, satu per satu mati dalam ingatanku. Buku persembahan penerbit TransMedia",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786021036921"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6021036921"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ewuEDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ewuEDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=ewuEDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ewuEDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Segaris_Rindu.html?hl=&id=ewuEDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Segaris_Rindu-sample-pdf.acsm?id=ewuEDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ewuEDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "A3V0DwAAQBAJ",
+      "etag": "EG45WDUqsWg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/A3V0DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Professor Feelgood",
+        "authors": [
+          "Leisa Rayven"
+        ],
+        "publisher": "Globo Livros",
+        "publishedDate": "2018-10-24",
+        "description": "Romântico e atual, o aguardado segundo livro da série de Mr. Romance (Masters of Love) traz o humor e os personagens envolventes característicos de Leisa Rayven. Asha Tate é uma ambiciosa assistente editorial. Romântica ao extremo, ela sonha com um amor que a leve às alturas. O homem ideal deve preencher todos os requisitos de sua longa lista – e talvez seja por isso que ela ainda não o tenha encontrado. Mas o romance fica em segundo plano quando o assunto é carreira, e tudo indica que ela está prestes a ser promovida. No entanto, para conseguir o cargo dos seus sonhos, ela deve achar um best-seller que balance o mercado editorial. Ela só não imagina que será balançada com ele. Em busca do próximo sucesso de vendas da editora Whiplash, Asha acaba entrando em contato com o Instagram do misterioso Professor Feelgood, que tem milhões de seguidores e um grande potencial de vendas. Mais do que apenas fotos sensuais de seu incrível corpo, o Professor posta poemas angustiados que atingem em cheio a sua alma. Mas o homem por trás da página acaba sendo bem diferente do que ela imaginava. Claro, seu corpo é lindo e seu rosto é de morrer, mas ele é intenso, arrogante e parece ter raiva do mundo todo – principalmente dela. Logo, o projeto dos sonhos de Asha parece ter tudo para se tornar um grande pesadelo. Para piorar, a atração que parece queimar entre ela e o Professor não ajuda em nada a manter sua cabeça no lugar. Dividida entre traumas do passado, sua carreira ascendente e sentimentos conflitantes, Asha terá que descobrir como publicar um sucesso editorial, resolver suas questões pessoais e, acima de tudo, lidar com o complexo Professor.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788525067609"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8525067601"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 368,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=A3V0DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=A3V0DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pt",
+        "previewLink": "http://books.google.com/books?id=A3V0DwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=A3V0DwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Professor_Feelgood.html?hl=&id=A3V0DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Professor_Feelgood-sample-epub.acsm?id=A3V0DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Professor_Feelgood-sample-pdf.acsm?id=A3V0DwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=A3V0DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "DOFvDwAAQBAJ",
+      "etag": "u/Zo2nS1+yA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/DOFvDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Crisis",
+        "authors": [
+          "Winston Churchill"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2018-09-20",
+        "description": "Reproduction of the original: The Crisis by Winston Churchill",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783734017247"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3734017246"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=DOFvDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=DOFvDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=DOFvDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=DOFvDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Crisis.html?hl=&id=DOFvDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=DOFvDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_CZuDwAAQBAJ",
+      "etag": "IB8LkWLyUPo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_CZuDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Sekaletta",
+        "subtitle": "Secret Chapter 1",
+        "authors": [
+          "Hana Margaretha",
+          "Larasati Fitriani"
+        ],
+        "publisher": "Loveable",
+        "publishedDate": "2018-08-01",
+        "description": "Bagaimana kalau cewek cantik, jutek, cuek, masa bodoh, dan jarang senyum bertemu dengan cowok tampan, humoris, dan agak sedikit nyeleneh? Nggak kebayang kalau dua karakter yang bertolak belakang—Aletta dan Sekala—bertemu dalam satu kelas di sekolah yang sama. Sayangnya, sikap jutek dan cueknya Aletta tidak mempan di mata Alkana, kakak cowoknya yang membuatnya terjebak cinta terlarang. Dan Aletta, ingin melupakan semua kenangan bersama Alkana. Pada saat dinding pertahanan hatinya mulai rapuh, Sekala hadir dalam kehidupan Aletta, namun ternyata, hal itu tak semudah yang Sekala pikir. Ada cowok lain yang juga menyimpan rasa pada Aletta, yakni Lingga. Di sela-sela permasalahan cintanya yang rumit, Aletta harus menerima kenyataan kalau dirinya telah menjadi target utama pembunuhan. Dan ia tidak tahu, siapa yang berusaha mencoba membunuhnya. *** - Kisah ini seperti anak panah, di mana Sekala adalah anak panah milik Aletta yang mampu menembus hati para pembaca! Kisah keluarga dengan konflik percintaan yang melebur dengan sempurna di setiap babnya! Sequel Dignitate yang sayang untuk kalian lewatkan! Grab it fast and recommended!! Katakokoh—Penulis Best Sellers - “Novel Sekaletta itu seru banget! Salah satu yang membuat saya tertarik membacanya. Kalian harus punya novel ini!” Poppi Pertiwi—Penulis Mozachiko - \"Cerita yang paling dinanti. Selalu suka sama cara Hana bercerita. Ada aja bagian yang bikin shock, adegan yang bikin baper, semuanya selalu bikin penasaran.\" Pit Sansi—Penulis Best Sellers Buku persembahan penerbit Loveable",
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 11,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_CZuDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_CZuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=_CZuDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=_CZuDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Sekaletta.html?hl=&id=_CZuDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Sekaletta-sample-pdf.acsm?id=_CZuDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_CZuDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "c8FcDwAAQBAJ",
+      "etag": "czZU0zuC08c",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/c8FcDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Teddy and Carrots",
+        "authors": [
+          "James Otis"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2018-05-23",
+        "description": "Reproduction of the original: Teddy and Carrots by James Otis",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783732686735"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3732686736"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=c8FcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=c8FcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=c8FcDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=c8FcDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Teddy_and_Carrots.html?hl=&id=c8FcDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=c8FcDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "brhaDwAAQBAJ",
+      "etag": "Ll3F8/YA/4o",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/brhaDwAAQBAJ",
+      "volumeInfo": {
+        "title": "1984",
+        "authors": [
+          "George Orwell",
+          "General Press"
+        ],
+        "publisher": "GENERAL PRESS",
+        "publishedDate": "2018-05-15",
+        "description": "1984, published in 1949, is a dystopian and satirical novel. It revolves around Winston Smith, who lives in a nation called Oceania, in a province called Airstrip One, which represents present-day England. This state is controlled by the Party, headed by a mysterious leader who is addressed as Emmanuel Goldstein, also known as the Big Brother. The Party watches every single move that Smith and other citizens make. The nation’s language and history is forcefully changed for the benefit of the Party. A new language, Newspeak, is being compulsively implemented to ensure works that have anything to do with political rebellion are omitted. In Oceania, even rebellious thoughts are illegal and are said to be the worst of all crimes. The people are suppressed and any form of individuality is not tolerated, including love and sex. Smith works as a low-ranking member of the Party who alters historical records. He hates the Party and thus buys an illegal diary in which he pens down his thoughts. He meets Julia, a coworker, who seems to been romantically inclined towards him. He however doubts that she is a Party spy who will get him imprisoned for his ‘thoughtcrimes’. Her love turns out to be true and they have a covert affair. Smith’s hatred for the Party grows day by day and he is convinced that a powerful Party official O’Brien is actually trying to overthrow the present government with the help of a secret group named the Brotherhood. As the story goes on, readers learn the twists and turns that life in Oceania has in store for Smith. He faces terror, betrayal, freedom, and a broken spirit. 1984 is the author’s haunting vision of the future. The book has been adapted into television programmes, films, radio broadcasts and plays. In 2003, the book was number 8 on BBC’s survey The Big Read. It was 6th and 13th on the reader’s and editor’s list of Modern Library 100 Best Novels, respectively. In 2005, it was added to the 100 Best English Language Novel from 1923 to 2005 by TIME magazine.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789387669628"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9387669629"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 320,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=brhaDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=brhaDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=brhaDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=20&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=brhaDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=brhaDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/1984-sample-epub.acsm?id=brhaDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=brhaDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uxpgDwAAQBAJ",
+      "etag": "guwUyTRj2iQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uxpgDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Past Tense",
+        "authors": [
+          "Ethan Stone"
+        ],
+        "publisher": "Stone Publishing",
+        "publishedDate": "2018-05",
+        "description": "Supernatural monsters aren’t the only thing these two lost men have to face Jason Holt has been on the run from an evil man for years and he’s tired of it. It’s time stop living in the past and focus on the future. Private detective Quinn Reynolds has been barely living since the death of the man he loved. When Jason comes to Quinn for help, Quinn finds a reason to move on. The dangerous situation around them quickly escalates and they face an unimaginable evil—a true demonic force. Only together can they survive and forge a future together. Second Edition",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780998501284"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "099850128X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uxpgDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uxpgDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uxpgDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uxpgDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Past_Tense.html?hl=&id=uxpgDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Past_Tense-sample-epub.acsm?id=uxpgDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Past_Tense-sample-pdf.acsm?id=uxpgDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uxpgDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "lMtPDwAAQBAJ",
+      "etag": "uN0pStREukI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/lMtPDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Survivors",
+        "subtitle": "",
+        "authors": [
+          "Martin Tillmanns"
+        ],
+        "publisher": "Troubador Publishing Ltd",
+        "publishedDate": "2018-03-13",
+        "description": "A catastrophic earthquake in China releases mutated viruses from a research institute, a global pandemic ensues and causes the breakdown of civil order. Faced with a complete failure of communications, power and water supplies, and surrounded by devastation, isolated survivors must defend themselves or attack others for the little that they have. Survivors follows the Morton family in their effort to cope, their anxieties, mistakes and fortitude in the necessary struggle to become survivors. Readers are taken from an isolated refuge in the Peak District to the chaos of central Manchester as they follow the family in their attempt to build a self-sufficient survival group. When the young women in the group are abducted, Tom Morton begins a desperate search through the Lake District to find his daughter, Jo. Racked with guilt and self-doubt, Tom knows that the search can only end in violence while Jo endures a solitary and hazardous trek across Northern England, revealing hidden depths of resourcefulness. Both are on journeys of self-discovery: can they truly survive in this brutal post-apocalyptic world? Inspired by the work of John Wyndham, Martin Tillmanns’ debut novel will appeal to readers who enjoy realistic apocalyptic thrillers.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781788032926"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1788032926"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 448,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=lMtPDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=lMtPDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=lMtPDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=22&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=lMtPDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Survivors.html?hl=&id=lMtPDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=lMtPDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "msdJDwAAQBAJ",
+      "etag": "sj696XV/O2Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/msdJDwAAQBAJ",
+      "volumeInfo": {
+        "title": "مُر مثل القهوة حلو مثل الشوكولا",
+        "authors": [
+          "ميرنا الهلباوي"
+        ],
+        "publisher": "Al-Karma Books",
+        "publishedDate": "2018-01-31",
+        "description": "· رواية رومانسية «هل أنتِ غبية؟ هل تحبين العيش في دور المغفلة؟ هل تحبين إهانة نفسكِ إلى هذا الحد؟ هل إذا كان له الاختيار بينكِ وبينها كنتِ تعتقدين أنه سيختاركِ أنتِ؟ لماذا؟... ضعي لهذه المهزلة حدًّا! أنتِ تجرحين نفسكِ ومَن حولكِ بأفكاركِ ومشاعركِ وأوهامكِ الغبية! سئمتُ من كذبكِ على نفسكِ وعليَّ، وسئمتكِ أنتِ شخصيًّا!». أردت الاختفاء، وكنت على وشك البكاء، لكنَّ شيئًا ما جعل الدموع متحجرة، تأبى الخروج من مقلتيَّ. أشعر أنني على وشك الانفجار. هاتفت شمس في وقت متأخر من الليل. وجد صوتي مختنقًا بالبكاء، ولم أكن أريد أن أحكي له أي مشاعر أكنها لأدهم على الرغم من أنه الأقرب لي في هذه الدنيا. - مالك؟ في إيه؟ - متضايقة شوية! - مالك طيب؟ فيه حاجة؟ أجيلك؟ - لأ. أنا بس... هوَّ أنا ليه دايمًا الأوبشن التاني عند الناس؟",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789776467859"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9776467857"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=msdJDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=msdJDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com/books?id=msdJDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=23&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=msdJDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D9%85%D9%8F%D8%B1_%D9%85%D8%AB%D9%84_%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9_%D8%AD%D9%84%D9%88_%D9%85%D8%AB%D9%84.html?hl=&id=msdJDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/%D9%85%D9%8F%D8%B1_%D9%85%D8%AB%D9%84_%D8%A7%D9%84%D9%82%D9%87%D9%88%D8%A9_%D8%AD%D9%84%D9%88_%D9%85%D8%AB%D9%84-sample-pdf.acsm?id=msdJDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=msdJDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "RhlfDwAAQBAJ",
+      "etag": "Bwm0TCEU62Y",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/RhlfDwAAQBAJ",
+      "volumeInfo": {
+        "title": "ما لا نبوح به",
+        "authors": [
+          "ساندرا سراج"
+        ],
+        "publisher": "Dar Dawen ",
+        "publishedDate": "2018-01-01",
+        "description": "كم مرة إنفصلنا؟ لا أعرف، كل ما أعرفه أن البعد عنه يربكني، كنت أريد أن أعود، في كل مرة نبتعد كنتُ أعود دائماً، أرجع وأنا كُلي أمل أن يتغير، أن يصبح لي، أن يتخلى عن حماقاته ويراني على حقيقتي ولو لمرة واحدة، كنت أريده أن يكون مثالياً وأن يكون لي وحدي، كنتُ أريد كل شيء وحدي! ولم يكن هو يشعر بأي شيء .. تركني هنا في المنتصف تماماً، لا أنا أكملت الطريق وحدي، ولا أنا بقيت معه، صرتُ في هذا المنتصف اللعين، لا لون لي! تسافر بطلة الحكاية بحثاً عن نفسها، تقابل حبها الحقيقي في تلك المدينة الجميلة، تتعلق به، غير أن أحلامنا عن الحب ربما تبدو باهتة إذا جاءت في غير موعدها، لذلك تعود إلى الأسكندرية بحثاً عن حب قديم لطالما أرهقها، في المنتصف .. تكتشف أنها وحدها تحتاج إلى أن تحب نفسها قبل أن يحبها الآخرين، فهل تتغير تفاصيل الحكاية ؟",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789778061062"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9778061068"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 174,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=RhlfDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=RhlfDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ar",
+        "previewLink": "http://books.google.com/books?id=RhlfDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=24&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=RhlfDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D9%85%D8%A7_%D9%84%D8%A7_%D9%86%D8%A8%D9%88%D8%AD_%D8%A8%D9%87.html?hl=&id=RhlfDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/%D9%85%D8%A7_%D9%84%D8%A7_%D9%86%D8%A8%D9%88%D8%AD_%D8%A8%D9%87-sample-pdf.acsm?id=RhlfDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=RhlfDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YmlUDwAAQBAJ",
+      "etag": "0bTGJkOCSiM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YmlUDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Hans",
+        "authors": [
+          "Risa Saraswati"
+        ],
+        "publisher": "Bukune",
+        "publishedDate": "2018-01-01",
+        "description": "Masa hidup Hans Joseph Weel bisa dibilang tidak menyenangkan. Dia tidak pernah dekat dengan kedua orangtua atau saudara selayaknya anak-anak lain. Hanya Rosemary Boyld—seorang wanita tua yang menganggap Hans seperti cucu sendiri—berada di sisinya sampai ke teror mengerikan itu….”… aku hanyalah anak kecil yang sedang menunggu Mamauntuk menjemputku pulang. Jika boleh meminta, tolong jangan memanggilku dengan sebutan hantu. Panggil saja namaku… Hans.” Meski begitu, Hans mampu menutupi kesepiannya dengan sangat baik. Dia lebih suka menderita sendiri ketimbang membagi derita dengan sahabat-sahabatnya yang lain, termasuk aku. Sikapnya yang selalu ceria, membuat siapa pun tak menyangka bahwa dia punya masa lalu yang singkat, rumit, dan berakhir mengerikan. Buku Persembahan Penerbit Bukune",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786022202165"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6022202167"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 264,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YmlUDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YmlUDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=YmlUDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=25&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YmlUDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hans.html?hl=&id=YmlUDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hans-sample-pdf.acsm?id=YmlUDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YmlUDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "3KBBDwAAQBAJ",
+      "etag": "gbm3oXsNq1k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/3KBBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Lady Hester",
+        "authors": [
+          "Charlotte Mary Yonge"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2017-12-05",
+        "description": "Reproduction of the original.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783732619146"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3732619141"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 76,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=3KBBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=3KBBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=3KBBDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=26&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=3KBBDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lady_Hester.html?hl=&id=3KBBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=3KBBDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TrM9DwAAQBAJ",
+      "etag": "a3Rctm7kGmM",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TrM9DwAAQBAJ",
+      "volumeInfo": {
+        "title": "Początek",
+        "subtitle": "",
+        "authors": [
+          "Dan Brown"
+        ],
+        "publisher": "Sonia Draga Sp. z o.o.",
+        "publishedDate": "2017-11-09",
+        "description": "Robert Langdon, profesor Uniwersytetu Harvarda i specjalista od symboli, przenosi nas do malowniczej Hiszpanii. Tam przemierza ulice Madrytu, Barcelony, Sewilli i Bilbao w poszukiwaniu odpowiedzi na nurtujące ludzkość pytania: Skąd pochodzimy? Dokąd zmierzamy? Brown zapełnił karty tej fascynującej powieści kodami, symbolami, odkryciami naukowymi, ciekawostkami religijnymi, historycznymi i architektonicznymi. Powiewu świeżości dodają opisy dzieł sztuki współczesnej i najnowocześniejszych rozwiązań technologicznych! Bez względu na to kim jesteś i w co wierzysz, nie masz wpływu na to, co się wydarzy… Robert Langdon, profesor Uniwersytetu Harvarda, specjalista w dziedzinie ikonologii religijnej i symboli, przybywa do Muzeum Guggenheima w Bilbao, gdzie ma dojść do ujawnienia odkrycia, które „na zawsze zmieni oblicze nauki”. Gospodarzem wieczoru jest Edmond Kirsch, czterdziestoletni miliarder i futurysta, którego oszałamiające wynalazki i śmiałe przepowiednie zapewniły my rozgłos na całym świecie. Kirsch, który dwadzieścia lat wcześniej był jednym z pierwszych studentów Langdona na Harvardzie, planuje ujawnić informację, która będzie stanowić odpowiedź na fundamentalne pytania dotyczące ludzkiej egzystencji. Gdy Langdon i kilkuset innych gości w osłupieniu ogląda oryginalną prezentację, wieczór zmienia się w chaos, a cenne odkrycie Kirscha może przepaść na zawsze. Chcąc stawić czoła nieuchronnemu zagrożeniu, Langdon musi uciekać z Bilbao. Towarzyszy mu Ambra Vidal, elegancka dyrektorka muzeum, który pomagała Kirschowi zorganizować wydarzenie. Razem udają się do Barcelony i podejmują niebezpieczną misję odnalezienia kryptograficznego hasła, które stanowi klucz do sekretu Kirscha…",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788381101462"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8381101468"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 576,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 3,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TrM9DwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TrM9DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "pl",
+        "previewLink": "http://books.google.com/books?id=TrM9DwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=27&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TrM9DwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Pocz%C4%85tek.html?hl=&id=TrM9DwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Pocz%C4%85tek-sample-epub.acsm?id=TrM9DwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TrM9DwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "wVm6DgAAQBAJ",
+      "etag": "56KfWvzQKOo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/wVm6DgAAQBAJ",
+      "volumeInfo": {
+        "title": "The Indigo Girl",
+        "subtitle": "A Novel",
+        "authors": [
+          "Natasha Boyd"
+        ],
+        "publisher": "Blackstone Publishing",
+        "publishedDate": "2017-10-03",
+        "description": "A deeply-researched and powerfully-written work of historical fiction, based on the untold story of Eliza Lucas, an extraordinary sixteen-year-old girl in Colonial-era South Carolina, whose actions were before their time: the story of the indigo girl. In 1739, bright and determined sixteen-year-old Eliza Lucas is charged with keeping her family's struggling plantations afloat, in her father's absence. Learning of the high value of indigo, Eliza becomes determined to learn the secret of growing the enigmatic crop, believing it to be her family's salvation, but everyone tells Eliza growing indigo in the region is impossible. Thwarted at nearly every turn, even by her own family, Eliza finds her only allies in an aging horticulturalist, an older and married gentleman lawyer, and a slave with whom she strikes a dangerous deal: teach her the intricate thousand-year-old secret process of making indigo dye and in return-against the laws of the day-she will teach the slaves to read. So develops an incredible story of romance, intrigue, hidden friendships, threats, ambition, betrayal, and sacrifice, based on historical documents and Eliza Lucas' own letters. \"An outstanding work of fiction...The Indigo Girl is an absolutely wonderful read that will even occasionally bring a tear to one's eye. Recommended for anyone's reading list.\"-New York Journal of Books \"An outstanding example of historical fiction...Readers will love discovering the amazing story of a virtually unknown girl who changed the course of history.\"-Booklist (starred review) \"Captivates on every level...Fans of Elizabeth Gilbert's The Signature of All Things will savor.\"-Library Journal (starred review) \"If you love historical fiction, this book should be on your fall reading list....It is based on historical documents and the real-life Eliza Lucas.\"-Southern Living",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781455137176"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1455137170"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 352,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 4,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.3.4.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=wVm6DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=wVm6DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=wVm6DgAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=28&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=wVm6DgAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Indigo_Girl.html?hl=&id=wVm6DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=wVm6DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "m-5GDwAAQBAJ",
+      "etag": "jDJnCMT4HuY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/m-5GDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Skin in the Game",
+        "authors": [
+          "Melissa Price"
+        ],
+        "publisher": "Bella Books",
+        "publishedDate": "2017-07-01",
+        "description": "When the anonymous rock star Steel Eyes was shot onstage, the world assumed she was dead. But Kenna Waverly—the real woman and super spy behind the Steel Eyes persona—is alive and well, living off the radar in Jamaica. Now Kenna is forced back into the spy game when a foreign hack sabotages America’s cyber security. She must infiltrate a foreign embassy to retrieve the source code before the identities of American agents worldwide are compromised. Along the way, Kenna finds herself partnered with Alice, the woman with whom she shares an erotic past. Then in the midst of her mission, Kenna finally learns the truth about the assassination of her very own parents. The stakes are high and the only way Kenna and Alice can survive the operation is to put their lives on the line—and their skin in the game.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594936333"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594936331"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 308,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=m-5GDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=m-5GDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=m-5GDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=29&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=m-5GDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Skin_in_the_Game.html?hl=&id=m-5GDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Skin_in_the_Game-sample-epub.acsm?id=m-5GDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Skin_in_the_Game-sample-pdf.acsm?id=m-5GDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=m-5GDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "z1MmDwAAQBAJ",
+      "etag": "iFvAAek0aDo",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/z1MmDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Rescued",
+        "authors": [
+          "Dakota Storm"
+        ],
+        "publisher": "JMS Books LLC",
+        "publishedDate": "2017-06-17",
+        "description": "Dean Montgomery loves his ranch and his family, but something is missing. When he sets out on a road trip to purchase land to expand his ranch, he finds himself stranded in a snowstorm. When the sexy and gruff Colt James, a tracker and rescue worker, rescues Dean, both of their lives are turned upside down. Attraction sizzles, and hearts race. But then trouble brews, and Dean is needed back home. Can these two make their new relationship work?",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781634864039"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1634864034"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 100,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=z1MmDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=z1MmDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=z1MmDwAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=30&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=z1MmDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Rescued.html?hl=&id=z1MmDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=z1MmDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "EOa_DgAAQBAJ",
+      "etag": "cVR8TlSVovc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/EOa_DgAAQBAJ",
+      "volumeInfo": {
+        "title": "Real Sexy",
+        "subtitle": "Book 2 of the Real Dirty Duet",
+        "authors": [
+          "Meghan March"
+        ],
+        "publisher": "Red Dress Press",
+        "publishedDate": "2017-05-23",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781943796090"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1943796092"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 262,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 2,
+        "maturityRating": "MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.13.10.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=EOa_DgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=EOa_DgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=EOa_DgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=31&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=EOa_DgAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Real_Sexy.html?hl=&id=EOa_DgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=EOa_DgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TjvFDgAAQBAJ",
+      "etag": "l4GNhWBTjdw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TjvFDgAAQBAJ",
+      "volumeInfo": {
+        "title": "Hercai",
+        "authors": [
+          "Sümeyye Koç"
+        ],
+        "publisher": "Epsilon Yayincilik Ltd. Sti",
+        "publishedDate": "2017-04-04",
+        "description": "Her şey, zamansız bir ölüm yüzünden başladı. Bu ölüm beraberinde, körpe bir yüreğe öfke ve kin getirdi. Aradan uzun, çok uzun yıllar geçti. Genç bir adamın kalbi ve ruhu birbirinden harap duygularla, acımasızca perçinlendi. Öyle ki, bu hissiyatlar onu uçurumun kenarına sürükleyebilecek kadar tehlikeli hale gelmişti. Yaralı bir mazinin ona bıraktığı en acı hatıra, yüreğinden tüm merhameti söküp atmasına neden oldu. Kara bir kilit vurup derin dehlizlere kapattı vicdanının çığlık çığlığa haykıran sesini. Merhameti ne zaman isyan etse, hep o anı hatırladı. Gözüne uyku girmeyen kara bir gecenin sonunda, akla zarar bir karar aldı! Ait olduğu topraklara gitmeye karar verdi genç adam. Çünkü her şey orada başlayacaktı, yıllar önce orada bittiği gibi... Ve Miran Karaman! Kusursuzca hazırladığı planla, ant içtiği intikamını almak için hazırdı. Yüreğinde kor bir öfke, dilinde kahrolası bir yemin vardı. Şimdi vakit, ödeşmeyi arzulayan deli yüreğini susturma vaktiydi. İçindeki öfkenin bir nebze soğuması için masum bir can yakacaktı... O can kim mi? Reyyan Şanoğlu! “Geceye bir selamım var. Andım olsun ki, adımı ezberleyecek bu şehir!”.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786051730400"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6051730400"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 432,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.0.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TjvFDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TjvFDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "tr",
+        "previewLink": "http://books.google.com/books?id=TjvFDgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=32&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=TjvFDgAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Hercai.html?hl=&id=TjvFDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hercai-sample-epub.acsm?id=TjvFDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Hercai-sample-pdf.acsm?id=TjvFDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TjvFDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YVbvDAAAQBAJ",
+      "etag": "wdR/EyRw02M",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YVbvDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Around the World in Eighty Days",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "Pan Macmillan",
+        "publishedDate": "2017-03-23",
+        "description": "On a seemingly normal day at the exclusive Reform Club, Phileas Fogg, a gentleman of great wealth and exacting tastes, makes an extraordinary £20,000 wager; he will perform an impossible feat and circumnavigate the globe in just eighty days. Accompanied only by his new French valet, the steady Passepartout, he sets off on a thrilling journey. Adventure, chaos and romance ensue as the daring pair harness the new power of steam to escape their ever-increasing enemies and beat the clock. The exciting adventures of Fogg and Passepartout in Jules Verne's Around the World in Eighty Days will entertain modern readers as much as they did the Victorians, and are accompanied here by an afterword from John Grant. Designed to appeal to the booklover, the Macmillan Collector's Library is a series of beautiful gift editions of much loved classic titles. Macmillan Collector's Library are books to love and treasure.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781509846733"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1509846735"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.3.4.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YVbvDAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YVbvDAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YVbvDAAAQBAJ&dq=subject:fiction&hl=&cd=33&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YVbvDAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Around_the_World_in_Eighty_Days.html?hl=&id=YVbvDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YVbvDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "1gvJDAAAQBAJ",
+      "etag": "H4rPTReaWbU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/1gvJDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Shadow's Seduction",
+        "subtitle": "",
+        "authors": [
+          "Kresley Cole"
+        ],
+        "publisher": "Valkyrie Press",
+        "publishedDate": "2017-02-28",
+        "description": "*Includes an 8 chapter bonus preview of WICKED ABYSS!* In this scorching Immortals After Dark/Dacian novel, #1 New York Times bestselling author Kresley Cole brings together a wicked vampire prince used to getting everything he desires and a demon warrior who always felt like an outcast. A night of debauchery . . . Prince Mirceo Daciano and his new friend, Caspion the Tracker, comb the streets of Dacia, drunkenly seeking out pleasures of the flesh. In what should have been a typical night, they coax a bevy of nymphs to bed. To impress their females, the demon and the vampire kiss on a dare. Changes them forever . . . Once they finally break away from their soul-searing kiss, they find themselves alone—and shaken. Had they imagined their explosive chemistry? Obstacles—ranging from a death sentence to exile in a war-torn dimension—threaten to destroy their lives . . . and the vulnerable promise in that one kiss. How long can they resist the fire that blazes between them? Even if Mirceo accepts Caspion as his fated mate, the seductive vampire still must convince the stubborn demon that their bond is forever. And any royal Dacian union must receive the blessing of King Lothaire, an unpredictable and savage killer. . . .",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780997215182"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0997215186"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "2.8.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=1gvJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=1gvJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=1gvJDAAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=34&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=1gvJDAAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Shadow_s_Seduction.html?hl=&id=1gvJDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Shadow_s_Seduction-sample-epub.acsm?id=1gvJDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Shadow_s_Seduction-sample-pdf.acsm?id=1gvJDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=1gvJDAAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "yFpVDwAAQBAJ",
+      "etag": "+A2Z5kbz8WU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/yFpVDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Janshen",
+        "authors": [
+          "Risa Saraswati"
+        ],
+        "publisher": "Bukune",
+        "publishedDate": "2017-01-01",
+        "description": "“Risa, kau gemuk!”“Risa, aku takut hujan!” “Risa, aku benci disebut hantu!” “Risa, seandainya gigiku tak ompong!” “Risa, aku rindu Anna….” “Risa… terima kasih, biarpun kau jelek, aku menyayangimu. Sama seperti sayangku kepada Annabelle. Jangan berhenti menemuiku karena menemuimu membuatku merasa hidup.” —Jantje Heinrich Janshen— Selama ini kita memanggilnya “Janshen”, padahal itu adalah nama belakang keluarganya. Sejak lahir, anak ini dianggap sebagai pembawa kebahagiaan karena siapa pun yang ada di sekitarnya selalu merasa bahagia. Tak ada yang mau tahu bagaimana kisah hidupnya. Semua sahabat hantuku tak tertarik mencari tahu karena masalah terberat seorang Janshen hanyalah gigi ompong yang membuat anak itu menjadi bulan-bulanan. Kupikir hidupnya selalu menyenangkan, kupikir harinya selalu dipenuhi tawa. Ternyata aku salah, anak sekecil dan selucu dia harus menghadapi banyak masalah hingga akhir hidup. Selamat datang di kehidupan si hantu ompong favoritku. Selamat menyelami sisi gelap masa lalunya. Buku Persembahan Penerbit Bukune",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9786022202417"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "6022202418"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 214,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=yFpVDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=yFpVDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "id",
+        "previewLink": "http://books.google.com/books?id=yFpVDwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=35&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=yFpVDwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Janshen.html?hl=&id=yFpVDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Janshen-sample-pdf.acsm?id=yFpVDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=yFpVDwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "xNzWDQAAQBAJ",
+      "etag": "kmtFY4DzLXU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/xNzWDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Her Last Wish",
+        "authors": [
+          "Ajay K Pandey"
+        ],
+        "publisher": "Sristhi Publishers & Distributors",
+        "publishedDate": "2016-12-20",
+        "description": "His father's over expectations only ruined his self-confidence further with each failure. A ray of hope walked into his life as his wife, a charismatic personality spreading joy wherever she went. Everything is going per plan, but darkness comes knocking soon. He finds out that she does not have much time to live and takes it upon himself to fight all odds – even his family, if need be – to help her fight her medical condition. His father sees his own redemption in helping them; he knows his son will be a winner only if he will fight for her, with her. Will a defeated son prove himself to be a good husband? Will the father-son duo together be able to change the course of fate? Her Last Wish is an inspiring story of love, relationships and sacrifice, which proves once again how a good wife makes the best husband.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9789382665878"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "9382665870"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 216,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4.5,
+        "ratingsCount": 7,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=xNzWDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=xNzWDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=xNzWDQAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=36&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=xNzWDQAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Her_Last_Wish.html?hl=&id=xNzWDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Her_Last_Wish-sample-epub.acsm?id=xNzWDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Her_Last_Wish-sample-pdf.acsm?id=xNzWDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=xNzWDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YdJZDgAAQBAJ",
+      "etag": "BqKpS8mMUGk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YdJZDgAAQBAJ",
+      "volumeInfo": {
+        "title": "When We Were Young",
+        "authors": [
+          "Jackie Calhoun"
+        ],
+        "publisher": "Bella Books",
+        "publishedDate": "2016-07-01",
+        "description": "Emily Cortland and Brett Tarlington have been best friends since childhood. Brett wants more than friendship. Emily is not so sure. She has two children. However, the women’s bond is unbreakable. Emily and Brett’s friendship becomes a partnership, until the family they forge is threatened by lies and deception. Then the unthinkable happens, and everything that has gone before pales in comparison. Only love and hope and life are left.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781594937347"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1594937346"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 220,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YdJZDgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YdJZDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=YdJZDgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=37&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=YdJZDgAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/When_We_Were_Young.html?hl=&id=YdJZDgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/When_We_Were_Young-sample-epub.acsm?id=YdJZDgAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/When_We_Were_Young-sample-pdf.acsm?id=YdJZDgAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YdJZDgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "ekDTBgAAQBAJ",
+      "etag": "pTKfQRnwMdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/ekDTBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Die Kinder des Kapitän Grant",
+        "subtitle": "Alle drei Bände in einem Buch",
+        "authors": [
+          "Jules Verne"
+        ],
+        "publisher": "BoD – Books on Demand",
+        "publishedDate": "2016-05-25",
+        "description": "Jules Verne: Die Kinder des Kapitän Grant. Alle drei Bände in einem Buch Frz. Titel: LES ENFANTS DU CAPITAINE GRANT. 1. Amérique du Sud. 2. Australie. 3. Océan pacifique (entstanden 1865-1866). Frz. Vorabdruck: Magasin d’Education et de Récréation 20.12.1865-5.12.1867. Frz. Buch-Erstausgbe: J. Hetzel, Paris 1867/68. Dt. Buch-Erstausgabe: A. Hartleben, Wien Pest Leipzig 1875, ausgeliefert Oktober 1874. Übersetzung: Karl Lanz. Hier benutzte Ausgabe: A. Hartleben, Wien Pest Leipzig 1876, ausgeliefert September 1875. Bekannte und unbekannte Welten. Abenteuerliche Reisen von Julius Verne XI- XIII. Vollständige Neuausgabe. Herausgegeben von Karl-Maria Guth. Berlin 2015. Textgrundlage ist die Ausgabe: Jules Verne: Die Kinder des Kapitän Grant. Bekannte und unbekannte Welten. Abenteuerliche Reisen von Julius Verne, Band XI–XIII, Wien, Pest, Leipzig: A. Hartleben, 1876. Die Paginierung obiger Ausgabe wird in dieser Neuausgabe als Marginalie zeilengenau mitgeführt. Umschlaggestaltung von Thomas Schultz-Overhage unter Verwendung des Bildes: Anton Melbye, Schiff in rauer See, 1844. Gesetzt aus Minion Pro, 11 pt.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783843030885"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "384303088X"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 568,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.2.2.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=ekDTBgAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=ekDTBgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "de",
+        "previewLink": "http://books.google.com/books?id=ekDTBgAAQBAJ&printsec=frontcover&dq=subject:fiction&hl=&cd=38&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=ekDTBgAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Die_Kinder_des_Kapit%C3%A4n_Grant.html?hl=&id=ekDTBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=ekDTBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uF3xCwAAQBAJ",
+      "etag": "xe2Vg5neEhw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uF3xCwAAQBAJ",
+      "volumeInfo": {
+        "title": "Moby-Dick",
+        "subtitle": "Or, the Whale",
+        "authors": [
+          "Herman Melville"
+        ],
+        "publisher": "Cosimo, Inc.",
+        "publishedDate": "2016-04-12",
+        "description": "\"Call me Ishmael.\" So begins the famous opening chapter of Moby-Dick; or, The Whale. Young sailor Ishmael is hired as a crew member of a whaler named Pequod, captained by a man named Ahab. In between lengthy chapters on whale biology and descriptions of the crew and the whaling trade, readers are slowly introduced to a captivating tale. Ahab is out for revenge on the great white whale that stole his leg, leaving him with a whale-bone prosthesis and a withering hatred for the beast. Known as Moby Dick, the whale is infamous for his encounters and escapes with whale ships, and Ahab offers a gold coin, nailed to the Pequod's mast, as a reward for whoever sights him first. Beginning on a cold Christmas morning, the crew embarks on a journey to find the whale and make their fortunes. An exciting staple of American literature, Moby-Dick is a must-read for anyone interested in the classics. Herman Melville was inspired to write Moby Dick by the 1821 biographical account Narrative of the Most Extraordinary and Distressing Shipwreck of the Whale-ship Essex, which in turn inspired the 2000 novel and 2015 movie, In the Heart of the Sea.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781944529024"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1944529020"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 660,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uF3xCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uF3xCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.com/books?id=uF3xCwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=39&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=uF3xCwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Moby_Dick.html?hl=&id=uF3xCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Moby_Dick-sample-epub.acsm?id=uF3xCwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.com/books/download/Moby_Dick-sample-pdf.acsm?id=uF3xCwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uF3xCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "QQCyCwAAQBAJ",
+      "etag": "X0cH2cu8Sp0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/QQCyCwAAQBAJ",
+      "volumeInfo": {
+        "title": "María",
+        "authors": [
+          "Jorge Isaacs"
+        ],
+        "publisher": "FV Éditions",
+        "publishedDate": "2016-03-07",
+        "description": "La historia de un amor imposible en una época donde la diferencia entre las clases sociales era un obstáculo insuperable.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9791029901843"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 315,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "averageRating": 4,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "0.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=QQCyCwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=QQCyCwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "es",
+        "previewLink": "http://books.google.com/books?id=QQCyCwAAQBAJ&pg=PP1&dq=subject:fiction&hl=&cd=40&source=gbs_api",
+        "infoLink": "http://books.google.com/books?id=QQCyCwAAQBAJ&dq=subject:fiction&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mar%C3%ADa.html?hl=&id=QQCyCwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "NG",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "NG",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=QQCyCwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      }
+    }
+  ]
+}

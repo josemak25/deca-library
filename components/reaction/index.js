@@ -2,16 +2,16 @@ import React from "react";
 import { Container, Icon } from "./styles";
 import { images } from "../../meta";
 
-export default Reaction = ({ rating }) => {
+export default Reaction = ({ averageRating }) => {
   return (
     <Container>
       {Array(3)
         .fill({})
         .map((_, i) =>
-          +rating >= 500 ? (
-            <Icon source={images.happy} resizeMode="contain" key={i} />
+          averageRating >= 5 ? (
+            <Icon source={images.happyImg} resizeMode="contain" key={i} />
           ) : (
-            <Icon source={images.sad} resizeMode="contain" key={i} />
+            <Icon source={images.sadImg} resizeMode="contain" key={i} />
           )
         )}
     </Container>

@@ -12,7 +12,7 @@ export default function configureStore() {
     storage: AsyncStorage
   };
 
-  const middlewares = [thunk, logger];
+  const middlewares = [thunk];
   const middlewareEnhancer = applyMiddleware(...middlewares);
 
   const enhancers = [middlewareEnhancer];
