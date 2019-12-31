@@ -1,4 +1,5 @@
 import styled from "styled-components";
+import { Platform } from "react-native";
 import boxShadow from "../../utils/boxShadows";
 import theme, { fonts } from "../../constants";
 const [colors] = theme;
@@ -22,6 +23,7 @@ export const CarouselContainer = styled.View`
   align-items: center;
   justify-content: center;
   margin-top: 15;
+  position: relative;
 `;
 
 export const Header = styled.Text`
@@ -76,9 +78,8 @@ export const carouselBackgroundStyle = [
     top: 110
   },
   boxShadow({
-    elevation: 10,
-    color: colors.COLOR_CARD_SHADOW,
-    opacity: 0.6,
+    elevation: Platform.OS == "ios" ? 10 : 0,
+    color: Platform.OS == "ios" ? colors.COLOR_CARD_SHADOW : colors.COLOR_WHITE,
     height: 6
   })
 ];

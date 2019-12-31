@@ -24,16 +24,7 @@ export const NextButton = ({ theme, handleChange }) => {
         ]}
         onPress={handleChange}
       >
-        <Icon
-          name="chevron-right"
-          style={{
-            color: theme.COLOR_WHITE,
-            fontFamily: theme.FONT_FAMILY_BOLD,
-            fontSize: 40,
-            height: 40,
-            width: 40
-          }}
-        />
+        <Icon name="ios-arrow-forward" size={30} color={theme.COLOR_WHITE} />
       </Button>
     );
   };

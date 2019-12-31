@@ -3,7 +3,7 @@ import { connect } from "react-redux";
 import { Dimensions } from "react-native";
 import Carousel from "react-native-snap-carousel";
 import components from "../../components";
-const { Card, Loading, Book, CarouselItem } = components;
+const { Card, Loading, Book, CarouselItem, Categories } = components;
 
 import {
   Container,
@@ -46,7 +46,6 @@ const Home = props => {
   }, []);
 
   const handleScroll = index => {
-    console.log(index);
     setCurScrollItem({
       ...curScrollItem,
       bookIndex: index,
@@ -61,7 +60,6 @@ const Home = props => {
       <Background>
         <Header>Discover</Header>
 
-        {/* scrolling carousel here */}
         <CarouselContainer>
           <Carousel
             data={jsonBooks.items}
@@ -75,7 +73,6 @@ const Home = props => {
             onSnapToItem={handleScroll}
           />
         </CarouselContainer>
-        {/* scrolling carousel here */}
 
         <Card styles={carouselBackgroundStyle}>
           <Body>
@@ -90,6 +87,7 @@ const Home = props => {
           </Body>
         </Card>
 
+        <Categories />
         <Card>
           <Book book={jsonBooks.items[0]} />
         </Card>
