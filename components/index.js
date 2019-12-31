@@ -5,6 +5,7 @@ import Icon from "./icon";
 import Loading from "./loading";
 import Search from "./search";
 import CarouselItem from "./carouselItem";
+import Categories from "./Tab";
 
 const allComponents = {
   Book,
@@ -13,7 +14,8 @@ const allComponents = {
   Icon,
   Loading,
   Search,
-  CarouselItem
+  CarouselItem,
+  Categories
 };
 
 export default allComponents;
